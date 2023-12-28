@@ -1,9 +1,8 @@
 ## Hi there, my name is Marcio
 
-- 🌱 I’m currently learning more about backend programming. My preferred language for now is Python. I'm undergoing an IT course in college, which is halfway completed
+- 🌱 Working as a java developer for a telecom company. Currently I`m building some personal projects in Flutter as a way to dwelve into the mobile world.
 - 💬 Ask me about anything, whether it is related to the IT world or not. I'm always open to a good conversation.
 - 📫 Feel free to reach me at: marcio.pmendes@hotmail.com or any of my social medias, I will put the link below
-- ⚡ Fun fact: I have a bachelor's degree in Chemical Engineering 🧪
 
 <div align="center">
   <a href="https://github.com/marciopmendes">
